@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #555555;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    padding-top: 100px;
+    background-color: #555555;
+}
+li, a{
+    text-decoration: none;
+    color: #fff;
+    line-height: 50px;
+    
+}
