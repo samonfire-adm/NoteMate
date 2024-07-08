@@ -1,6 +1,7 @@
 /bot
 /.env
 /notes.db
+/bot_data.db
 /resource
 /sample bot intro
 /notes
